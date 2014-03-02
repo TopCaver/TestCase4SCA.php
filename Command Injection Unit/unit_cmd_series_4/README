@@ -1,0 +1,15 @@
+
+Test Case For SCA Tools
+
+Test Unit : XSS
+Test Series : 4
+
+Description:
+    Test for vulnerability with php framework.
+    These input data come from URL and split to params by framework.
+    These cases are same as Test Case Series. 1 .
+
+    Test URL like this:
+    http://ip.addr/test_cast_4/TCFrame.php/test/index/id/topcaver
+
+@author: topcaver@gmail.com

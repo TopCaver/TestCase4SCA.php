@@ -17,11 +17,17 @@ XSS Unit
 
 SQL Injection Unit
 ------------------
-
+  * Series 1 (08): mysql_query() / PDO->query();
+  * Series 2 (03): mysql_real_escape_string() / PDO->prepare()
+  * Series 3 (02): htmlspecialchars() / escapeshellarg()
+  * Series 4 (02): As same as series 1, but implemet under a fremework.
 
 Command Injection Unit
 ----------------------
-
+  * Series 1 (12): exec() / system() / passthu()
+  * Series 2 (06): (int) / escapeshellarg()
+  * Series 3 (06): addslashes() / htmlspecialchars()
+  * Series 4 (03): As same as series 1, but implemet under a fremework.
 
 Test Result
 -----------
